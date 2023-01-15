@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/inline-trading/static/css/main.801e89f7.css",
+    "main.js": "/inline-trading/static/js/main.0b5df071.js",
+    "static/media/img4.jpg": "/inline-trading/static/media/img4.af19e9a1c6373fc67472.jpg",
+    "static/media/img7.jpg": "/inline-trading/static/media/img7.1c02aa6b46d2c54f1a5b.jpg",
+    "static/media/img184.jpg": "/inline-trading/static/media/img184.75580e9aecaa50d14c78.jpg",
+    "static/media/img172.jpg": "/inline-trading/static/media/img172.1869b7f4a35fa0157e18.jpg",
+    "static/media/img36.jpg": "/inline-trading/static/media/img36.28145617eafb8e9453f5.jpg",
+    "static/media/img179.jpg": "/inline-trading/static/media/img179.b5894452b5c61905a5f5.jpg",
+    "static/media/img46.jpg": "/inline-trading/static/media/img46.832ddf90d1f4f691ff51.jpg",
+    "static/media/img51.jpg": "/inline-trading/static/media/img51.8e3e69e2a773b69c56cd.jpg",
+    "static/media/img23.jpg": "/inline-trading/static/media/img23.92831bdf5ae40a2cf09e.jpg",
+    "static/media/img41.jpg": "/inline-trading/static/media/img41.535eaa50025b0b9f3dab.jpg",
+    "static/media/Denim.jpg": "/inline-trading/static/media/Denim.e13a518ed864af5dbc68.jpg",
+    "static/media/Grease.jpg": "/inline-trading/static/media/Grease.084ac99d0bc4871690ab.jpg",
+    "static/media/Lumix.jpg": "/inline-trading/static/media/Lumix.8a51dded6573c93d98ae.jpg",
+    "static/media/Perfo.jpg": "/inline-trading/static/media/Perfo.6792a6166e03860cd654.jpg",
+    "static/media/scope.jpg": "/inline-trading/static/media/scope.38eb1bdce2148be4eb0d.jpg",
+    "static/media/Drum.jpg": "/inline-trading/static/media/Drum.ed1a78e2947affc17e14.jpg",
+    "static/media/logo.jpg": "/inline-trading/static/media/logo.0c846b100b8e3721750b.jpg",
+    "index.html": "/inline-trading/index.html",
+    "main.801e89f7.css.map": "/inline-trading/static/css/main.801e89f7.css.map",
+    "main.0b5df071.js.map": "/inline-trading/static/js/main.0b5df071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801e89f7.css",
+    "static/js/main.0b5df071.js"
+  ]
+}
